@@ -9,6 +9,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
