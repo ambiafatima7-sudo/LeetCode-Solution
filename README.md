@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
