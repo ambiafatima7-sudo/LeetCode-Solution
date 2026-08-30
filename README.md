@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0035-search-insert-position) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
