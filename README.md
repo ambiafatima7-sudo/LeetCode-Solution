@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
