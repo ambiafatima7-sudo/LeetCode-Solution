@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1046-last-stone-weight) |
+| [3903-smallest-stable-index-i](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0112-path-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
