@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -61,6 +62,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -112,4 +114,8 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3904-smallest-stable-index-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
