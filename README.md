@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0136-single-number) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
 ## Dynamic Programming
