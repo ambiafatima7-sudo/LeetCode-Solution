@@ -34,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
 ## Binary Search
 |  |
 | ------- |
