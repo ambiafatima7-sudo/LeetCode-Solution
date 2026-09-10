@@ -107,10 +107,12 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
 |  |
 | ------- |
