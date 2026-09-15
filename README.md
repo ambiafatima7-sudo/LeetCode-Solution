@@ -41,6 +41,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
@@ -67,12 +68,14 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 | [0283-move-zeroes](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
