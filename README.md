@@ -31,6 +31,7 @@
 | [0066-plus-one](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
@@ -137,6 +139,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -151,4 +154,8 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0835-image-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
