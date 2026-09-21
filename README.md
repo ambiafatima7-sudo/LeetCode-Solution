@@ -20,6 +20,7 @@
 | [0835-image-overlap](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1046-last-stone-weight) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -33,6 +34,7 @@
 | [0066-plus-one](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3871-count-commas-in-range-ii) |
