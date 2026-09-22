@@ -32,6 +32,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
