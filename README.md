@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
+| [0941-valid-mountain-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1089-duplicate-zeros) |
