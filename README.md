@@ -24,6 +24,7 @@
 | [0941-valid-mountain-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -138,6 +139,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
@@ -189,4 +191,12 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
