@@ -25,6 +25,7 @@
 | [1046-last-stone-weight](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
