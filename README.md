@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
@@ -137,6 +138,7 @@
 | [0217-contains-duplicate](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1051-height-checker) |
