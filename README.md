@@ -91,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
@@ -126,6 +127,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -194,6 +196,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Counting Sort
 |  |
