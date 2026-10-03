@@ -52,6 +52,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
@@ -113,6 +115,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0189-rotate-array) |
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1051-height-checker) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
