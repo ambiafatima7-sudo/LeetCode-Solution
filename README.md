@@ -20,6 +20,7 @@
 | [0414-third-maximum-number](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0905-sort-array-by-parity) |
@@ -177,6 +178,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3904-smallest-stable-index-ii) |
