@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0136-single-number) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0877-stone-game) |
