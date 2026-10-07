@@ -99,6 +99,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0189-rotate-array) |
@@ -222,4 +224,20 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
