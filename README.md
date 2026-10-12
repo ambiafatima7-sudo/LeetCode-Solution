@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -173,6 +174,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -187,6 +189,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
@@ -246,4 +249,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
