@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0066-plus-one) |
@@ -106,6 +107,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
@@ -260,4 +262,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
