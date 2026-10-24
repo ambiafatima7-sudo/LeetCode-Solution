@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0118-pascals-triangle) |
@@ -221,6 +222,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0835-image-overlap) |
 ## Combinatorics
 |  |
@@ -272,4 +274,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
