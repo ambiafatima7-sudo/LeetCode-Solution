@@ -119,6 +119,7 @@
 | [0115-distinct-subsequences](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/1046-last-stone-weight) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -283,4 +285,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ambiafatima7-sudo/LeetCode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
